@@ -36,10 +36,10 @@ const Page = () => {
       </section>
 
       {showModal &&
-/*         <Modal
+        <Modal
           image={imageOfModal}
           closeModal={closeModal}
-        /> */
+        />
       }
 
     </div>
